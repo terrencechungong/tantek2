@@ -1,0 +1,30 @@
+<svg width="26" height="38" viewBox="0 0 26 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 377">
+<g id="Vector">
+<path d="M15.092 13.5856L14.1064 14.1572L14.2293 37.9364H15.2128L15.092 13.5856Z" fill="#838181"/>
+<path d="M11.3563 14.9249L10.3723 15.5083L10.4953 37.9364H11.4787L11.3563 14.9249Z" fill="#838181"/>
+<path d="M24.617 4.45407L0 16.8674V17.8977L24.617 5.51111V4.45407Z" fill="#838181"/>
+<path d="M24.6552 0.580078L0 12.9824V14.0284L24.6552 1.62605V0.580078Z" fill="#838181"/>
+<path d="M26 0.580078H24.6552V1.62605H26V0.580078Z" fill="#838181"/>
+<path d="M26 4.45407H24.617V5.51111H26V4.45407Z" fill="#838181"/>
+<path d="M0 14.0284H1.34483L1.38298 12.3404L0 12.9824V14.0284Z" fill="#838181"/>
+<path d="M0 17.8977L0.672414 17.9134H1.34483L1.38298 16.3527L0 16.8674V17.8977Z" fill="#838181"/>
+</g>
+<path id="Vector 101" d="M25.9999 1.62598L1.34473 14.0283V12.9823L24.6551 1.62597L25.9999 1.62598Z" fill="url(#paint0_radial_501_401)"/>
+<path id="Vector 102" d="M25.9999 5.51099L1.34473 17.9133V16.8673L24.6148 5.51099H25.9999Z" fill="url(#paint1_radial_501_401)"/>
+<rect id="Rectangle 100" x="15.092" y="13.5801" width="1.04598" height="24.3563" fill="#C4C4C4"/>
+<rect id="Rectangle 101" y="12.9824" width="1.34483" height="1.04598" fill="#ECE8E8"/>
+<rect id="Rectangle 102" y="16.8674" width="1.34483" height="1.04598" fill="#ECE8E8"/>
+<path id="Rectangle 103" d="M24.6157 4.45361H26.0001V5.51116H24.6157V4.45361Z" fill="#ECE8E8"/>
+<path id="Rectangle 106" d="M24.6553 0.580077H26.0001V1.62606H24.6553V0.580077Z" fill="#ECE8E8"/>
+<path id="Rectangle 105" d="M11.3564 14.925H12.4024V37.9365H11.3564V14.925Z" fill="#C4C4C4"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_501_401" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13.6723 7.82713) rotate(90) scale(6.20115 12.3276)">
+<stop stop-color="#C4C4C4"/>
+</radialGradient>
+<radialGradient id="paint1_radial_501_401" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13.6723 11.7121) rotate(90) scale(6.20115 12.3276)">
+<stop stop-color="#C4C4C4"/>
+</radialGradient>
+</defs>
+</svg>
