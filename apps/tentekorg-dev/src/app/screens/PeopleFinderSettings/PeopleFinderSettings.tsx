@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import BottomTabs from '../components/BottomTabs';
 import HomeScreenHeader from '../components/HomeScreenHeader';
+import { ScrollView } from 'react-native';
 const alertPerson = require('../../../assets/images/mockAlertPic.png');
 const heartIcon = require('../../../assets/images/Heart.png');
 
